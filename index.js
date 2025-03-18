@@ -1,9 +1,13 @@
 //Calculadora de partidas Rankeadas
 //O Que deve ser utilizado: Funções (function)
-
 main()
 
 function main(){
+    texto()
+}
+
+
+function texto(){
     const frase = ["O Herói tem saldo de " , " está no nivel de "]
 	let resultado = saldo(43,10)
 
